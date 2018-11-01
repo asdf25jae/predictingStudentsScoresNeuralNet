@@ -1,0 +1,2 @@
+# predictingStudentsScoresNeuralNet
+Predictor variables / Covariates : Students' 4 different scores on 2 assignments and 2 tests. Response variable: the students' final scores in the class. Simple gradient descent with batch learning and stochastic gradient descent with online learning used as the 2 different optimization methods with different learning rates to increase the accuracy rates of predicting the students scores. Mostly done with Python libraries (Numpy and Scipy) to build the neural network with 2 layers from scratch.  
